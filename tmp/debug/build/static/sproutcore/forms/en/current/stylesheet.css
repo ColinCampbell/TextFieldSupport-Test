@@ -1,0 +1,12 @@
+/* This default stylesheet for forms maximizes fluidity. */
+/* line 3, ././tmp/chance/47b341ed9be8eccbb7abdb40624698d2.scss */
+.sc-label-view.sc-form-label {
+  white-space: pre;
+  text-align: right;
+}
+
+/* line 6, ././tmp/chance/47b341ed9be8eccbb7abdb40624698d2.scss */
+.sc-view.sc-form-view .sc-view.sc-form-row-view {
+  overflow: visible;
+}
+

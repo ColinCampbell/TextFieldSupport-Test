@@ -1,0 +1,1 @@
+SC.TEMPLATES["tf"] = SC.Handlebars.compile("{{view TfsTest.TextField}}")
